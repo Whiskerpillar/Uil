@@ -1,0 +1,5 @@
+Package: uil
+Version: 2.0.0
+Architecture: all
+Maintainer: AJHM
+Description: A very simple bash logging utility.
